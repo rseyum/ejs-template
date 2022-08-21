@@ -1,0 +1,24 @@
+{
+  "name": "ejs-template-3",
+  "version": "1.0.0",
+  "description": "Import this repo to create a starting point for Node.js projects in repl.it, https://replit.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rseyum/ejs-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rseyum/ejs-template/issues"
+  },
+  "homepage": "https://github.com/rseyum/ejs-template#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  }
+}
